@@ -1,0 +1,145 @@
+[
+    {
+      "popular": [
+        {
+          "name": "Pizza",
+          "imageUrl": "https://assets.grab.com/wp-content/uploads/sites/8/2018/11/19135857/pizza-delivery-malaysia.jpg",
+          "rating": "4.1",
+          "deliveryTime": "45 mins",
+          "deliveryCharges": "Free Delivery",
+          "price": "RM39.90",
+          "note": "Extra thin crust"
+        },
+        {
+          "name": "Nasi Lemak",
+          "imageUrl": "http://dishbyili.com/wp-content/uploads/2020/03/Nasi-Lemak-1140x700.jpeg",
+          "rating": "4.9",
+          "deliveryTime": "20 mins",
+          "deliveryCharges": "Free Delivery",
+          "price": "RM7.90",
+          "note": "Spicy"
+        },
+        {
+          "name": "Roti Canai",
+          "imageUrl": "https://cdn.happyfresh.com/spree/recipes/photos/987d5e4b2849ae553c1b1a5cca860a8d87f079f2-medium.jpg?1554869603",
+          "rating": "4.5",
+          "deliveryTime": "10 mins",
+          "deliveryCharges": "Delivery charges 50 extra",
+          "price": "RM1.0",
+          "note": "Spicy"
+        },
+  {
+          "name": "Maggie Goreng",
+          "imageUrl": "https://resepichenom.com/media/DSC_5166-2.jpg",
+          "rating": "4.0",
+          "deliveryTime": "10 mins",
+          "deliveryCharges": "Free Delivery",
+          "price": "RM5.00",
+          "note": "Special, Spicy"
+        },
+        {
+          "name": "Rojak",
+          "imageUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/foodapp/popular4.png",
+          "rating": "3.8",
+          "deliveryTime": "10 mins",
+          "deliveryCharges": "Delivery charges 50 extra",
+          "price": "RM4.50",
+          "note": "Juicy"
+        }
+      ],
+      "recommended": [
+        {
+          "name": "Fried Chicken",
+          "imageUrl": "https://www.queensleeappetit.com/wp-content/uploads/2018/01/spicy-buttermilk-fried-chicken-recipe-queensleeappetit.com-3-720x540.jpg",
+          "rating": "4.9",
+          "deliveryTime": "15 mins",
+          "deliveryCharges": "Free Delivery",
+          "price": "RM10.00",
+          "note": "Crunchy"
+        },
+        {
+          "name": "Maggie Goreng",
+          "imageUrl": "https://resepichenom.com/media/DSC_5166-2.jpg",
+          "rating": "4.0",
+          "deliveryTime": "10 mins",
+          "deliveryCharges": "Free Delivery",
+          "price": "RM5.00",
+          "note": "Special, Spicy"
+        },
+        {
+          "name": "Pizza",
+          "imageUrl": "https://assets.grab.com/wp-content/uploads/sites/8/2018/11/19135857/pizza-delivery-malaysia.jpg",
+          "rating": "4.1",
+          "deliveryTime": "45 mins",
+          "deliveryCharges": "Free Delivery",
+          "price": "RM39.90",
+          "note": "Extra thin crust"
+        }
+      ],
+      "allmenu": [
+        {
+            "name": "Maggie Goreng",
+            "imageUrl": "https://resepichenom.com/media/DSC_5166-2.jpg",
+            "rating": "4.0",
+            "deliveryTime": "10 mins",
+            "deliveryCharges": "Free Delivery",
+            "price": "RM5.00",
+            "note": "Special, Spicy"
+        },
+        {
+            "name": "Fried Chicken",
+            "imageUrl": "https://www.queensleeappetit.com/wp-content/uploads/2018/01/spicy-buttermilk-fried-chicken-recipe-queensleeappetit.com-3-720x540.jpg",
+            "rating": "4.9",
+            "deliveryTime": "15 mins",
+            "deliveryCharges": "Free Delivery",
+            "price": "RM10.00",
+            "note": "Crunchy"
+        },
+        {
+            "name": "Pizza",
+            "imageUrl": "https://assets.grab.com/wp-content/uploads/sites/8/2018/11/19135857/pizza-delivery-malaysia.jpg",
+            "rating": "4.1",
+            "deliveryTime": "45 mins",
+            "deliveryCharges": "Free Delivery",
+            "price": "RM39.90",
+            "note": "Extra thin crust"
+        },
+        {
+            "name": "Rojak",
+            "imageUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/foodapp/popular4.png",
+            "rating": "3.8",
+            "deliveryTime": "10 mins",
+            "deliveryCharges": "Delivery charges 50 extra",
+            "price": "RM4.50",
+            "note": "Juicy"
+        },
+        {
+            "name": "Roti Canai",
+            "imageUrl": "https://cdn.happyfresh.com/spree/recipes/photos/987d5e4b2849ae553c1b1a5cca860a8d87f079f2-medium.jpg?1554869603",
+            "rating": "4.5",
+            "deliveryTime": "10 mins",
+            "deliveryCharges": "Delivery charges 50 extra",
+            "price": "RM1.0",
+            "note": "Spicy"
+        },
+        {
+          "name": "Nasi Goreng",
+          "imageUrl": "https://static.toiimg.com/thumb/75581339.cms?width=1200&height=900",
+          "rating": "3.7",
+          "deliveryTime": "20 mins",
+          "deliveryCharges": "Free Delivery",
+          "price": "RM7.00",
+          "note": "Spicy"
+        },
+        {
+            "name": "Nasi Lemak",
+            "imageUrl": "http://dishbyili.com/wp-content/uploads/2020/03/Nasi-Lemak-1140x700.jpeg",
+            "rating": "4.9",
+            "deliveryTime": "20 mins",
+            "deliveryCharges": "Free Delivery",
+            "price": "RM7.90",
+            "note": "Spicy"
+        }
+      ]
+    }
+  ]
